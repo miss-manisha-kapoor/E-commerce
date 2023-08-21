@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/E-commerce/static/css/main.e1839f72.css",
+    "main.js": "/E-commerce/static/js/main.f938a007.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/E-commerce/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/E-commerce/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/E-commerce/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/electronic.jpeg": "/E-commerce/static/media/electronic.fa19320e9935ec182b3b.jpeg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/E-commerce/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/E-commerce/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/women.jpeg": "/E-commerce/static/media/women.ef28fc67ad4946a3d5bf.jpeg",
+    "static/media/jwelery.jpeg": "/E-commerce/static/media/jwelery.1cd3f5b3dd643d26a5bd.jpeg",
+    "static/media/men.jpeg": "/E-commerce/static/media/men.f28b2cf096b5fe19c4d2.jpeg",
+    "index.html": "/E-commerce/index.html",
+    "main.e1839f72.css.map": "/E-commerce/static/css/main.e1839f72.css.map",
+    "main.f938a007.js.map": "/E-commerce/static/js/main.f938a007.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1839f72.css",
+    "static/js/main.f938a007.js"
+  ]
+}
